@@ -11,6 +11,8 @@ https://rediss174.github.io/Celebrities-Core/
 Use this project by just filtering the category of celebrity and the region where they come from and read all the information that you are interested in.
 
 You can also click on the logo button on the left top of the screen to drop all filters and return to the start position.
+
+https://youtu.be/BJn_m2UOGBc?si=9XSe1yMQmZlS1Hox - Youtube guide and presentation
 ## Credits
 
 Our team C0D3BUST3RS includes 4 members:
