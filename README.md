@@ -5,7 +5,7 @@ DigiEduHack Datorium 2023 Hackathon Prototype Solution by C0D3BUST3RS
 ## Installation
 
 The project is a web page, so you can find all necessary code on GitHub, and run this web page by following the link here:
-
+https://rediss174.github.io/Celebrities-Core/
 ## How to Use the Project 
 
 Use this project by just filtering the category of celebrity and the region where they come from and read all the information that you are interested in.
