@@ -1,0 +1,157 @@
+body {
+  background-color: #3498db;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  position: relative; /* Для позиционирования иконки */
+}
+
+header {
+  background-color: #2980b9;
+  padding: 20px;
+  text-align: center;
+  position: relative; /* Для позиционирования иконки */
+}
+
+h1 {
+  font-size: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+select {
+  padding: 0px;
+  border: none;
+  background-color: #2980b9;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+section {
+  margin: 20px;
+}
+
+.celebrity-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.celebrity-card {
+  background-color: #ffffff;
+  border: 1px solid #2980b9;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  display: block;
+}
+
+.celebrity-card img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.celebrity-card h3 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.celebrity-card p {
+  font-size: 16px;
+}
+
+.sport { background-color: #a1d8e5; }
+.music { background-color: #a1d8e5; }
+.business { background-color: #a1d8e5; }
+.other { background-color: #a1d8e5; }
+
+#home-icon {
+  position: absolute;
+  left: 30px; /* Положение иконки слева */
+  top: 10px; /* Положение иконки сверху */
+  font-size: 50px; /* Размер иконки */
+  cursor: pointer; /* Изменение курсора при наведении на иконку */
+  padding-top: 50px;
+}
+h2 {
+  font-size: 50px;
+}
+label {
+  font-size: 25px;
+}
+select {
+  font-size: 25px;
+  text-align: center;
+}
+#label_category {
+  padding-left: 70px;
+}
+#header_box {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+#region_choise {
+  display: flex;
+  align-items: center;
+}
+#category {
+  width: 130px;
+}
+
+.footer_bg {
+  background-color: #2980b9;
+}
+.container_footer {
+  width: 1800px;
+  padding-left: 35px;
+  display: flex;
+  
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+.red_txt {
+  color: #000000;
+  padding-left: 7px;
+  font-weight: bold;
+}
+.footer_txt {
+  color: white;
+  font-size: 20px;
+  font-family: PTSerif;
+  line-height: 20px; 
+  margin: 0;
+  display: flex;  
+  align-items: center;
+  margin-right: 300px;
+}
+.footer_icon {
+  font-size: 10px;
+  padding-left: 800px;
+}
+#footer_icon {
+  font-size: 30px;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+  margin-top: 20px;
+  align-self: center;
+  margin-left: 20px;
+}
+.logo:hover {
+  cursor: pointer;
+}
+.logo_and_celebrities {
+  display: flex;
+}
+.logo_2 {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+  margin-top: 20px;
+  align-self: center;
+}
